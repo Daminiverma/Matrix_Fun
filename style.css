@@ -1,0 +1,59 @@
+form {
+    margin-top: 25px;
+}
+
+body {margin: 0px;height: 100%;width: 100%;text-align: center;}
+
+#okay {
+    font-size: 20px;
+    -webkit-appearance: button;
+    height: 35px;
+}
+
+.input-text {
+    font-size: 20px;
+}
+
+#rows-and-columns {
+    height: 30px;
+    width: 40%;
+    font-size: 15px;
+}
+
+.div-border {
+    margin-top: 20px;
+    display: inline-block;
+    border: 1px solid grey;
+}
+
+.inpt {
+    font-size: 18px;
+}
+
+input.calc {margin-right: 15px;font-size: 20px;-webkit-appearance: button;}
+
+.btn-div {
+    margin-top: 15px;
+    height: 35px;
+    display: inline-block;
+}
+
+.result-area {
+    margin-top: 20px;
+}
+
+.green {
+    box-shadow: inset 0px 0px 9px 1px green!important;
+}
+
+.red {
+    box-shadow: inset 0px 0px 9px 1px red;
+}
+
+.result-area-green {
+    color: green;
+}
+
+.result-area-red {
+    color: red;
+}
